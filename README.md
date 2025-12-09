@@ -1,39 +1,43 @@
-# Hi there 👋, I'm Harish  
+# Hi there, I'm [Harish Kumar] 👋
 
-## 📈 Data Analyst | ETL & BI Enthusiast  
+A passionate **Data Analyst** with 5+ years of experience specializing in **Business Intelligence**, **ETL processes**, and **data visualization**. Team Player of the Year 2023 at M&C Saatchi Performance.
 
-I’m a **Data Analyst** passionate about transforming raw data into meaningful insights.  
-With expertise in **SQL, Python, Power BI, and Matillion ETL**, I design pipelines, build dashboards, and create systematic learning resources that connect mathematics, coding, and real-world analytics.  
+![GitHub Profile Header](generated_image:1)
 
----
+## 🛠️ Skills
 
-### 🔧 Skills & Tools
-- **Data Engineering**: Matillion ETL, SQL (joins, set operations, optimization)  
-- **Data Visualization**: Power BI (DAX, data modeling, interactive dashboards)  
-- **Programming**: Python (data analysis, automation, scripting)  
----
+### Business Intelligence & Visualization
+[![Power BI](https://img.shields.io/badge/Power%20BI-F68C1E?style=for-the-badge&logo=power-bi&logoColor=white)](https://powerbi.microsoft.com/)
+[![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
-### 📊 What I Do
-- Build **ETL pipelines** for clean, reliable data flows  
-- Create **interactive dashboards** for decision-making  
-- Write **efficient SQL queries** for analytics and reporting  
-- Develop **Python scripts** for automation and analysis  
-- Share **tutorials, practice banks, and mock exams** for learners  
+### Data Engineering & ETL
+[![Matillion](https://img.shields.io/badge/Matillion-00AEEF?style=for-the-badge&logo=matillion&logoColor=white)](https://www.matillion.com/)
 
----
+### Programming & Querying
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-### 🌱 Current Goals
-- Master advanced **cloud-based data engineering** with Matillion  
-- Refine **Power BI dashboards** for advanced analytics storytelling  
-- Expand **SQL & Python resources** for systematic self-learning  
+## 📊 Currently Learning
+- Advanced DAX & Power BI optimization (PL-300 prep)
+- Python data science libraries (Pandas, NumPy)
+- ETL best practices with Matillion
 
----
+## 💼 Professional Highlights
+- Senior Data Analyst at M&C Saatchi Performance
+- Power BI dashboard development & deployment
+- SQL query optimization & database design
 
-### 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 📊 [Power BI Portfolio](#)  
-- 🐍 [Python Projects](#)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
----
-
-⭐️ From [Harish](https://github.com/Harish)
+<div align="center">
+  <h3>Let's connect! 🔗</h3>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
