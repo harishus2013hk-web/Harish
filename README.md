@@ -1,8 +1,11 @@
 # Hi there, I'm [Harish Kumar] 👋
 
-A passionate **Data Analyst** with 5+ years of experience specializing in **Business Intelligence**, **ETL processes**, and **data visualization**. Team Player of the Year 2023 at M&C Saatchi Performance.
-
 ![GitHub Profile Header](generated_image:1)
+
+## 👨‍💼 Profile Summary
+**Senior Data Analyst** with 5+ years of hands-on experience in data analytics, business intelligence, and ETL processes at M&C Saatchi Performance (Team Player of the Year 2023).  
+
+Expert in transforming complex datasets into actionable insights through advanced **Power BI** dashboards, **Matillion** ETL pipelines, **SQL** query optimization, **Python** data manipulation, and **Excel** analysis. Passionate about database design, statistical analysis, and professional growth—currently preparing for Power BI PL-300 certification while mastering advanced DAX, Pandas/NumPy, and data engineering best practices.
 
 ## 🛠️ Skills
 
