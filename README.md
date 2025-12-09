@@ -11,8 +11,6 @@ With expertise in **SQL, Python, Power BI, and Matillion ETL**, I design pipelin
 - **Data Engineering**: Matillion ETL, SQL (joins, set operations, optimization)  
 - **Data Visualization**: Power BI (DAX, data modeling, interactive dashboards)  
 - **Programming**: Python (data analysis, automation, scripting)  
-- **Mathematics & Logic**: Set theory, operations, and coding analogies  
-
 ---
 
 ### 📊 What I Do
