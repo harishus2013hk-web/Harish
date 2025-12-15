@@ -37,7 +37,7 @@ Expert in transforming complex datasets into actionable insights through advance
 
 <div align="center">
   <h3>Let's connect! 🔗</h3>
-  <a href="[www.linkedin.com/in/harish-kumar-b48880193](https://www.linkedin.com/in/harish-kumar-b48880193/)">
+  <a href="www.linkedin.com/in/harish-kumar-b48880193](https://www.linkedin.com/in/harish-kumar-b48880193/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="harishus2013.hk@gmail.com">
