@@ -1,4 +1,4 @@
-# Hi there, I'm [Harish Kumar] 👋
+# Hi there, I'm Harish Kumar 👋
 
 ![GitHub Profile Header](generated_image:1)
 
